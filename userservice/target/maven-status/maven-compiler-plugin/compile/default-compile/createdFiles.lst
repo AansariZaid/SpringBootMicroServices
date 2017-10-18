@@ -1,0 +1,6 @@
+com\stackroute\activitystream\userservice\UserController.class
+com\stackroute\activitystream\userservice\UserDAO.class
+com\stackroute\activitystream\userservice\UserServiceApplication.class
+com\stackroute\activitystream\userservice\UserDAOImpl.class
+com\stackroute\activitystream\userservice\BaseDomain.class
+com\stackroute\activitystream\userservice\User.class
